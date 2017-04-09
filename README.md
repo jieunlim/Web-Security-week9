@@ -7,8 +7,7 @@ Time spent: **X** hours spent in total
 
 ### Required: Overview & Setup
 
-- [x] A basic writeup (250-500 words) on the `README.md` desribing the overall approach, resources/tools used, findings.	/
-	moniter any attack with honeypotter
+- [x] A basic writeup (250-500 words) on the `README.md` desribing the overall approach, resources/tools used, findings.	
 	
 - [ ] A specific, reproducible honeypot setup, ideally automated. There are several possibilities for this:
 	- A Vagrantfile or Dockerfile which provisions the honeypot as a VM or container
