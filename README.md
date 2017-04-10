@@ -7,8 +7,9 @@ Time spent: **X** hours spent in total
 
 ### Required: Overview & Setup
 
-- [x] A basic writeup (250-500 words) on the `README.md` desribing the overall approach, resources/tools used, findings.	
-	
+- [x] A basic writeup (250-500 words) on the `README.md` desribing the overall approach, resources/tools used, findings. <br />
+	Used WordPress honeypots called HonnyPotter. <br />
+	It is a WordPress login honeypot for collection and analysis of failed login attempts.	
 - [ ] A specific, reproducible honeypot setup, ideally automated. There are several possibilities for this:
 	- A Vagrantfile or Dockerfile which provisions the honeypot as a VM or container
 	- A bash script that installs and configures the honeypot for a specific OS
