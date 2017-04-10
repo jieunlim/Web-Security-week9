@@ -21,9 +21,10 @@ Time spent: **X** hours spent in total
 
 - [x] A basic writeup of the attack (what offensive tools were used, what specifically was detected by the honeypot)
 	it is a honeypot for collection and analysis of failed login attempts.
-- [ ] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
-- [ ] A screen-cap of the attack being conducted
-<img src='http://i.imgur.com/BJ7qeeQ.gif' />
+- [x] An example of the data captured by the honeypot (example: IDS logs including IP, request paths, alerts triggered)
+	<img src='http://i.imgur.com/BJ7qeeQ.gif' />
+- [x] A screen-cap of the attack being conducted
+	<img src='http://i.imgur.com/IrzggCG.gif' />
     
 ### Optional: Features
 - Honeypot
@@ -38,20 +39,6 @@ Time spent: **X** hours spent in total
 	- [ ] Additional attack demos/writeups
 	- [ ] Captured malicious payload
 	- [ ] Enhanced logging of exploit post-exploit activity (example: attacker-initiated commands captured and logged)
-
-
-The following objectives are **optional**:
-
-* Bonus Objective 1\.
-  * [ ]  .
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/BJ7qeeQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
